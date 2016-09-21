@@ -37,6 +37,9 @@ ordenados de menor a mayor profundidad.
   Un excelente tutorial escrito desde un punto de vista práctico.  
   Además, las explicaciones están acompañadas de ilustrativos diagramas.
 
+- [**Getting Git Right**](https://www.atlassian.com/git/)  
+  Compilado de tutoriales y consejos, con ejemplos prácticos.
+
 - [**Pro Git**](https://git-scm.com/book/en/v2)  
   Espera, ¿quieres saber todavía más? :grinning:  
   Aquí tienes el libro _oficial_ para aprender _todo_ acerca de Git:
